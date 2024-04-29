@@ -1,7 +1,7 @@
-# My names Jackson Stephens, welcome to my digital portfolio!
+# Welcome!
 
 ## About Me
-I'm currently a Cybersecurity student at Brigham Young University (BYU).
+I'm currently studying Cybersecurity at Brigham Young University (BYU). 
 - I use GitHub as a digital portfolio to showcase my personal projects and coursework. 
 
 Feel free to connect with me for collaborations or any inquiries:
