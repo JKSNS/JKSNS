@@ -1,6 +1,6 @@
 # Welcome!
 
-Hello, my name is Jackson Stephens and I'm currently studying Cybersecurity at Brigham Young University (BYU). 
+My name is Jackson Stephens and I'm currently studying Cybersecurity at Brigham Young University (BYU). 
 - I use GitHub as a digital portfolio to showcase my personal projects and coursework. 
 
 ## Disclaimer
