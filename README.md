@@ -1,6 +1,6 @@
-# Welcome!
+# Jackson Stephens
 
-Security Engineer + Reseacher
+Security Engineer | Researcher
 
 - I use GitHub as a digital portfolio for personal projects and coursework. 
 
