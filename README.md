@@ -1,6 +1,6 @@
 # Welcome!
 
-I like cybersecurity + AI/ML. 
+Security Engineer + Reseacher
 
 - I use GitHub as a digital portfolio for personal projects and coursework. 
 
