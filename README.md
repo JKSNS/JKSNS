@@ -2,7 +2,8 @@
 
 Security Engineer | Researcher
 
-- I use GitHub as a digital portfolio for personal projects and coursework. 
+- I use GitHub as a digital portfolio for personal projects and coursework.
+- [Checkout my website!](https://jackson.stephens.sh/)
 
 ## Disclaimer
 Please note that all environment configurations and connections used in my projects (e.g., `.env` files) have been retired and are no longer active. They are shared here for educational and archival purposes only.
